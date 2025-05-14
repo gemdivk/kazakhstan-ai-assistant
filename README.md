@@ -26,7 +26,7 @@ An AI-powered assistant that can **answer questions about the Constitution of th
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
 ❓ Ask Questions
 ![Ask Questions](screenshots/screen1.png)
