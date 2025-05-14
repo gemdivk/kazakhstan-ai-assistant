@@ -34,12 +34,11 @@ An AI-powered assistant that can **answer questions about the Constitution of th
 
 
 📥 Upload PDFs
-![PDF Upload](screenshots/screen2.png)
+![screen2](screenshots/screen2.png)
 
 ❓ Ask Questions regarding uploaded pdf
-![Ask Questions+PDF](screenshots/screen3.png)
+![screen3](screenshots/screen3.png)
 
----
 
 ## ✨ Features
 
