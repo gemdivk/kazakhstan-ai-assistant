@@ -1,4 +1,4 @@
-🚀 Getting Started
+## 🚀 Getting Started
 
 ✅ Prerequisites
 
@@ -7,8 +7,7 @@
 - [Ollama](https://ollama.com) installed
 
 ---
-
-##📦 Step-by-Step Installation
+## 📦 Step-by-Step Installation
 
 1. Install Ollama + Models
 
@@ -19,6 +18,7 @@ ollama pull llama3
 ollama pull nomic-embed-text
 
 ---
+
 
 🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
 
