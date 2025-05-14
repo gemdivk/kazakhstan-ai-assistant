@@ -1,6 +1,6 @@
-## 🚀 Getting Started
+🚀 Getting Started
 
-### ✅ Prerequisites
+✅ Prerequisites
 
 - macOS with **Homebrew**
 - Python 3.9+
@@ -8,9 +8,9 @@
 
 ---
 
-### 📦 Step-by-Step Installation
+📦 Step-by-Step Installation
 
-#### 1. Install Ollama + Models
+1. Install Ollama + Models
 
 ```bash
 brew install ollama
@@ -20,7 +20,7 @@ ollama pull nomic-embed-text
 
 ---
 
-# 🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
+🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
 
 An AI-powered assistant that can **answer questions about the Constitution of the Republic of Kazakhstan** using uploaded PDF documents. This app uses **open-source, local language models** (like LLaMA3 via Ollama) and runs entirely **offline** on your Mac.
 
