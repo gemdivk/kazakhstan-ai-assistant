@@ -1,4 +1,4 @@
-🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
+## 🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
 
 An AI-powered assistant that can **answer questions about the Constitution of the Republic of Kazakhstan** using uploaded PDF documents. This app uses **open-source, local language models** (like LLaMA3 via Ollama) and runs entirely **offline** on your Mac.
 
