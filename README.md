@@ -28,7 +28,6 @@ An AI-powered assistant that can **answer questions about the Constitution of th
 
 ## 📸 Screenshots
 
-> _Add your screenshots into a `/screenshots` folder and update paths below._
 
 ### ❓ Ask Questions
 ![Ask Questions](screenshots/screen1.png)
