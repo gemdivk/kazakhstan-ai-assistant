@@ -26,20 +26,6 @@ An AI-powered assistant that can **answer questions about the Constitution of th
 
 ---
 
-📸 Screenshots
-
-❓ Ask Questions
-![Ask Questions](screenshots/screen1.png)
-![screen1](screenshots/screen1.png)
-
-
-📥 Upload PDFs
-![screen2](screenshots/screen2.png)
-
-❓ Ask Questions regarding uploaded pdf
-![screen3](screenshots/screen3.png)
-
-
 ## ✨ Features
 
 - 🧠 Powered by local Large Language Models (e.g., `llama3`, `mistral`, etc.)
@@ -148,6 +134,21 @@ kazakhstan-ai-assistant/
 * Indexing large PDFs may take time. Add spinner for better UX.
 
 ---
+📸 Screenshots
+
+❓ Ask Questions
+![screen1](screenshots/screen1.png)
+![screen3](screenshots/screen3.png)
+
+
+📥 Upload PDFs
+![screen2](screenshots/screen2.png)
+![screen4](screenshots/screen4.png)
+
+❓ Ask Questions regarding uploaded pdf
+![screen3](screenshots/screen3.png)
+![screen5](screenshots/screen5.png)
+--
 
 ## 📜 License
 
