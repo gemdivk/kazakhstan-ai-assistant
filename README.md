@@ -138,7 +138,7 @@ kazakhstan-ai-assistant/
 
 ❓ Ask Questions
 ![screen1](screenshots/screen1.png)
-![screen3](screenshots/screen3.png)
+![screen6](screenshots/screen3.png)
 
 
 📥 Upload PDFs
