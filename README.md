@@ -161,3 +161,4 @@ MIT License — free for academic, personal, or commercial use.
 Built by \Kamila Kanafina SE-2324, Abdyhalyk Dias SE-2322 — powered by 💻 LangChain, 🧠 Ollama, and 🇰🇿 Kazakhstan’s Constitution.
 
 ````
+# vectorhash
