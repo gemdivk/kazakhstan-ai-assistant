@@ -1,26 +1,4 @@
-## 🚀 Getting Started
-
-✅ Prerequisites
-
-- macOS with **Homebrew**
-- Python 3.9+
-- [Ollama](https://ollama.com) installed
-
----
-## 📦 Step-by-Step Installation
-
-1. Install Ollama + Models
-
-```bash
-brew install ollama
-
-ollama pull llama3
-ollama pull nomic-embed-text
-
----
-
-
-## 🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
+🇰🇿 Kazakhstan Constitution AI Assistant (Local LLM with Ollama)
 
 An AI-powered assistant that can **answer questions about the Constitution of the Republic of Kazakhstan** using uploaded PDF documents. This app uses **open-source, local language models** (like LLaMA3 via Ollama) and runs entirely **offline** on your Mac.
 
@@ -49,26 +27,26 @@ An AI-powered assistant that can **answer questions about the Constitution of th
 | Document Parsing | `LangChain` + `PyPDFLoader`     |
 
 ---
-
 ## 🚀 Getting Started
 
-### ✅ Prerequisites
+✅ Prerequisites
 
 - macOS with **Homebrew**
 - Python 3.9+
 - [Ollama](https://ollama.com) installed
 
 ---
+## 📦 Step-by-Step Installation
 
-### 📦 Step-by-Step Installation
-
-#### 1. Install Ollama + Models
+1. Install Ollama + Models
 
 ```bash
 brew install ollama
 
 ollama pull llama3
 ollama pull nomic-embed-text
+
+
 ````
 
 #### 2. Clone This Repository
@@ -156,9 +134,9 @@ MIT License — free for academic, personal, or commercial use.
 
 ---
 
-## 🙋‍♂️ Author
+## 🐈‍⬛🙋‍♂️ Author
 
-Built by \Kamila Kanafina SE-2324, Abdyhalyk Dias SE-2322 — powered by 💻 LangChain, 🧠 Ollama, and 🇰🇿 Kazakhstan’s Constitution.
+Built by Kamila Kanafina SE-2324, Abdyhalyk Dias SE-2322 — powered by 💻 LangChain, 🧠 Ollama, and 🇰🇿 Kazakhstan’s Constitution.
 
 ````
 # vectorhash
