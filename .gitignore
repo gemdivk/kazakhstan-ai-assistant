@@ -1,0 +1,16 @@
+# Ignore local cache & DB
+chroma_db/
+__pycache__/
+*.pyc
+*.bin
+*.log
+
+# Virtual environments
+venv/
+kazai_env/
+
+# Environment secrets
+.env
+
+# IDE/editor configs
+.vscode/
